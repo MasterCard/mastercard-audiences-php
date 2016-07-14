@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="1" assertions="5" failures="0" errors="0" time="1.584184">
+    <testsuite name="MasterCard\Api\Audiences\AudiencesSegmentTest" file="/var/jenkins_home/jobs/MC-Audiences-Php/workspace/generated-code/mastercard-audiences/php/sdk/Test/MasterCard/Api/Audiences/AudiencesSegmentTest.php" tests="1" assertions="5" failures="0" errors="0" time="1.584184">
+      <testcase name="test_example_audience_request" class="MasterCard\Api\Audiences\AudiencesSegmentTest" file="/var/jenkins_home/jobs/MC-Audiences-Php/workspace/generated-code/mastercard-audiences/php/sdk/Test/MasterCard/Api/Audiences/AudiencesSegmentTest.php" line="55" assertions="5" time="1.584184"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
