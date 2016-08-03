@@ -1,0 +1,3 @@
+MasterCard\Api\Audiences\AudiencesSegment
+ [x] example audience request
+
