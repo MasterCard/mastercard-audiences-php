@@ -1,0 +1,22 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 1
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Audiences\\AudiencesSegmentTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Audiences\\AudiencesSegmentTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Audiences\\AudiencesSegmentTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 0.0012140274047852,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\Audiences\\AudiencesSegmentTest\".\n",
+    "output": ""
+}

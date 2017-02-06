@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="1" assertions="0" failures="0" errors="0" time="0.001214">
+    <testsuite name="MasterCard\Api\Audiences\AudiencesSegmentTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Audiences-Php/workspace/generated-code/audiences/php/sdk/Test/MasterCard/Api/Audiences/AudiencesSegmentTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.001214">
+      <testcase name="Warning" assertions="0" time="0.001214"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
